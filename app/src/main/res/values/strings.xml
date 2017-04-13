@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz Against Humanity</string>
+    <string name="creativecommons">Creative Commons<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">\n BY-NC-SA 2.0 license \n</a></string>
+
+
+    <string name="question1">1. What are my parents hiding from me?</string>
+    <string name="a1">World Peace</string>
+    <string name="b1">Being Rich</string>
+    <string name="c1">Grandma</string>
+
+    <string name="question2">2. Coming to Broadway this season, ______________, the musical.</string>
+    <string name="a2">Former President George W. Bush</string>
+    <string name="b2">Jean-Claude Van Damme</string>
+    <string name="c2">Bill Nye the Science Guy</string>
+
+    <string name="question3">3. What ended my last relationship?</string>
+    <string name="a3">Cards Against Humanity.</string>
+    <string name="b3">Cuddling.</string>
+    <string name="c3">A look-see.</string>
+
+    <string name="question4">4. Why am I sticky?</string>
+    <string name="a4">Bees?</string>
+    <string name="b4">The milk man.</string>
+    <string name="c4">Spontaneous human combution.</string>
+
+    <string name="question5">5. What never fails to liven up a dinner?</string>
+    <string name="a5">Fancy Feast.</string>
+    <string name="b5">Oversize lollipops.</string>
+    <string name="c5">Edible underpants.</string>
+
+    <string name="question6">6. Science Will Never Explain.</string>
+    <string name="a6">The ooze.</string>
+    <string name="b6">A plunger to the face.</string>
+    <string name="c6">Neil Patrick Harris</string>
+
+</resources>
